@@ -1,0 +1,19 @@
+{
+  "name": "webdriverio_cucumber_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio ./wdio.conf.js"
+  },
+  "keywords": [],
+  "author": "vineet",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^7.18.1",
+    "@wdio/cucumber-framework": "^7.18.0",
+    "@wdio/local-runner": "^7.18.1",
+    "@wdio/selenium-standalone-service": "^7.18.0",
+    "moment": "^2.14.1"
+  }
+}

@@ -10,8 +10,8 @@ Feature: Launching a url and Testing accessibilty
 
     Examples:
       | url                  |
-      | https://google.com   |
-      | https://vineetkr.com |
+      | https://yahoo.com    |
+      | https://abc.com      |
       | https://vineetkr.com |
       | https://vineetkr.com |
       | https://vineetkr.com |

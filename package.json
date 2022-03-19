@@ -10,10 +10,16 @@
   "author": "vineet",
   "license": "ISC",
   "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/register": "^7.17.7",
+    "@wdio/allure-reporter": "^7.18.0",
     "@wdio/cli": "^7.18.1",
     "@wdio/cucumber-framework": "^7.18.0",
     "@wdio/local-runner": "^7.18.1",
     "@wdio/selenium-standalone-service": "^7.18.0",
+    "chai": "^4.3.6",
     "moment": "^2.14.1"
   }
 }
